@@ -15,7 +15,7 @@
       "inline"
     ],
     "website": "https://github.com/LXR-YOUTUBER-AMAL/Media-Search-bot-v2",
-    "repository": "https://github.com/LXR-YOUTUBER-AMAL/Media-Search-bot-v2",
+    "repository": "https://github.com/jeevasangu/Media-Search-bot-v2",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token from @BotFather",
